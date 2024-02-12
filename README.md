@@ -8,7 +8,7 @@
 
 <img src="torcidas.png" alt="Exemplo imagem">
 
-> Thales Farias has crafted a website designed to facilitate the enjoyment of the 'Dom Casmurro' audiobook, providing a dynamic platform to practice HTML, CSS, and JavaScript.
+> I developed a website showcasing autistic football fan communities, employing skills such as Flex Containers, Flex Items, and Flex Direction to create a dynamic and visually appealing platform for this inclusive project
 
 ### Adjustments and improvements.
 
