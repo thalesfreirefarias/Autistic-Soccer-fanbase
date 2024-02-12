@@ -23,7 +23,8 @@ The following tools were used in the construction of the project:
 - [CSS](<https://developer.mozilla.org/pt-BR/docs/Web/CSS/>)
 - [Javascript](<https://developer.mozilla.org/pt-BR/docs/Web/JavaScript>)
 
-Direct Website: [here](<https://spotity-thales.vercel.app/>)
+Direct Website: [here](<https://autistic-soccer-fanbase.vercel.app/>)
+
 
 ## 🤝 Creator
 
