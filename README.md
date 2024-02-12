@@ -1,4 +1,4 @@
-# Audio  Book Project
+# Autistic Soccer Fanbase
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
@@ -6,7 +6,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="Captura de Tela 2024-02-03 às 18.30.26.png" alt="Exemplo imagem">
+<img src="torcidas.png" alt="Exemplo imagem">
 
 > Thales Farias has crafted a website designed to facilitate the enjoyment of the 'Dom Casmurro' audiobook, providing a dynamic platform to practice HTML, CSS, and JavaScript.
 
